@@ -1,1 +1,1 @@
-# FlightTicketPricePrediction
+# PredictTheFlightTicketPrice
